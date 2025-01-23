@@ -1,6 +1,4 @@
-# Project Name:
-
-Basic Auth with 2FA in Node.js and Express
+# Basic Auth with 2FA in Node.js and Express
 
 ## Insights:
 - This project has enabled me to gain a deep understanding of user authentication and authorization techniques using JWT (JSON Web Tokens) for secure communication between the client and the server.
